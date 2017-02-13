@@ -10,7 +10,10 @@
       padding: 25px;
     }
     
-
+#map{
+    height: 400px;
+    width: 600px;
+}
 .navbar .navbar-nav {
   display: inline-block;
   float: none;
