@@ -18,7 +18,7 @@ html, body {
     
 #map{
     height: 400px;
-    width: 600px;
+    width: 100%;
 }
 .navbar .navbar-nav {
   display: inline-block;
