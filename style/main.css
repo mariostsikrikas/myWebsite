@@ -9,6 +9,12 @@
       background-color: #f2f2f2;
       padding: 25px;
     }
+
+html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
     
 #map{
     height: 400px;
