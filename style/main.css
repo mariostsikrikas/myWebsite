@@ -17,16 +17,23 @@
   vertical-align: top;
 }
 
-.navbar .navbar-collapse {
+.navbar {
   text-align: center;
 }
-.navbar-brand {
-    margin-right: 10px;
+/*navbar collapsing*/
+.navbar-collapse{
+    text-align: center;    
+}
+.navbar-collapse{
+    text-align: center;
+    margin: 0px;
 }
 
-#portfolio {
-    margin-right: 20px;;
+.navbar-brand {
+    
+    text-align: left;
 }
+
 
 .portButton {
     margin: 30px;
@@ -40,11 +47,9 @@
 /*hover over portfolio*/
 
 
-li {
-    float: left;
-}
 
-li a, .dropbtn {
+
+.dropbtn {
     display: inline-block;
     color: white;
     text-align: center;
@@ -87,4 +92,6 @@ li.dropdown {
 
 
 
-
+#brand {
+    font-weight: bold;
+}
