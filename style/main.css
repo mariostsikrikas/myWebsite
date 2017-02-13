@@ -30,10 +30,14 @@
 }
 
 .navbar-brand {
-    
     text-align: left;
 }
 
+img {
+   padding:4px;
+   border:3px solid #021a40;
+   background-color:#ffffff;
+}
 
 .portButton {
     margin: 30px;
